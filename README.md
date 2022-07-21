@@ -5,11 +5,15 @@ Selected collection of (imho) high-quality learning resources on Software Develo
 
 The scope of this repo isn't to collect **every** existing learning resource - I'd like to have a restricted selection of trusted/known learning resources that a SWE could browse anytime he needs to explore & study a topic.
 
+- - - - - -
+:moneybag: => paid resource
+
 Any suggestion contribution is welcomed :triumph:
+- - - - - -
 
 ## Did I miss university?
 
-- [The Imposter’s Handbook](https://bigmachine.io/products/the-imposters-handbook/) by [Rob Conery](https://github.com/robconery)
+- :moneybag: [The Imposter’s Handbook](https://bigmachine.io/products/the-imposters-handbook/) by [Rob Conery](https://github.com/robconery)
 
   > How many topics seems to be "base knowledge" by everyone, then you stop for a second and notice... you don't have any idea on what the hell is {x}? A book to understand many crucial topics - you probably overlooked them to study a JS framework but, at the end of the road, they'll make you a wiser dev. 
   >
