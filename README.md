@@ -38,7 +38,7 @@ Any suggestion contribution is welcomed :triumph:
 ## Why the hell should I double-write my code!?
 ###### _on testing_
 
-- :moneybag: [Unit testing principles, practices, and patterns](https://www.manning.com/books/unit-testing
+- :moneybag: [Unit testing principles, practices, and patterns](https://www.manning.com/books/unit-testing) by [Vladimir Khorikov](https://enterprisecraftsmanship.com/)
 
   > Test. Trust me, test. IF you're reading me and you have doubts on testing it's boring I wanna do new feat-sssssh, trust me, TEST. 
   > 
