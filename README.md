@@ -1,4 +1,7 @@
-# awesome-swe-learning
+# Awesome SWE Learning
+
+[![Awesome Bot](https://github.com/followynne/awesome-swe-learning/actions/workflows/awesome.yml/badge.svg)](https://github.com/followynne/awesome-swe-learning/actions/workflows/awesome.yml)
+
 Selected collection of (imho) high-quality learning resources on Software Development.
 
 **Programming is easy... until you start to really program something. One day or another, you'll hit a wall - that's when you'll need to choose a good resource. How do you choose a good one, between the millions you can find on the net?**
